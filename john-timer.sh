@@ -29,7 +29,7 @@ echo "Please enter a filename to print results to and press [ENTER]"
 read fileout
 
 # Prompt for a mode
-echo "Please enter --inremental, --wordlist=<wordlist>, --singlecrack"
+echo "Please enter --incremental, --wordlist=<wordlist>, --single"
 echo "Or... Enter nothing for regular mode"
 read mode
 
